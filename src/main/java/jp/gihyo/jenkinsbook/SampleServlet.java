@@ -12,6 +12,7 @@ import jp.gihyo.jenkinsbook.action.SampleAction;
 /**
  * Servlet implementation class SampleServlet.
  */
+
 public class SampleServlet extends HttpServlet {
     /**
      * Serializable instance ID.
